@@ -18,13 +18,6 @@ CSS3
 
 JavaScript (opsional, jika nanti ditambahkan interaksi)
 
-📁 Struktur File
-bash
-Salin
-Edit
-📁 Rencana-Gizi-Harian/
-├── index.html        # Halaman utama website
-└── README.md         # Dokumentasi proyek
 
 📌 Cara Menggunakan
 Kunjungi: https://mariaperonika12.github.io/Rencana-Gizi-Harian/
