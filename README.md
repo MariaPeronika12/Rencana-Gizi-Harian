@@ -1,4 +1,5 @@
 🥗 Rencana Gizi Harian
+
 Website ini dirancang untuk membantu pengguna merencanakan pola makan harian yang seimbang berdasarkan kebutuhan gizi individu. Dengan antarmuka yang sederhana dan responsif, pengguna dapat melihat informasi makanan serta jumlah kalori yang disarankan.
 
 🌟 Fitur Utama
